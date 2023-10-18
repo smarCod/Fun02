@@ -1,0 +1,38 @@
+C:\Users\haha\Desktop\Desktop Apps\CSharp\DotNetFun\SectionManagement\SectionManagement.Infrastructure\bin\Debug\net8.0\SectionManagement.Infrastructure.deps.json
+C:\Users\haha\Desktop\Desktop Apps\CSharp\DotNetFun\SectionManagement\SectionManagement.Infrastructure\bin\Debug\net8.0\SectionManagement.Infrastructure.dll
+C:\Users\haha\Desktop\Desktop Apps\CSharp\DotNetFun\SectionManagement\SectionManagement.Infrastructure\bin\Debug\net8.0\SectionManagement.Infrastructure.pdb
+C:\Users\haha\Desktop\Desktop Apps\CSharp\DotNetFun\SectionManagement\SectionManagement.Infrastructure\obj\Debug\net8.0\SectionManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haha\Desktop\Desktop Apps\CSharp\DotNetFun\SectionManagement\SectionManagement.Infrastructure\obj\Debug\net8.0\SectionManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\haha\Desktop\Desktop Apps\CSharp\DotNetFun\SectionManagement\SectionManagement.Infrastructure\obj\Debug\net8.0\SectionManagement.Infrastructure.AssemblyInfo.cs
+C:\Users\haha\Desktop\Desktop Apps\CSharp\DotNetFun\SectionManagement\SectionManagement.Infrastructure\obj\Debug\net8.0\SectionManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\haha\Desktop\Desktop Apps\CSharp\DotNetFun\SectionManagement\SectionManagement.Infrastructure\obj\Debug\net8.0\SectionManagement.Infrastructure.dll
+C:\Users\haha\Desktop\Desktop Apps\CSharp\DotNetFun\SectionManagement\SectionManagement.Infrastructure\obj\Debug\net8.0\refint\SectionManagement.Infrastructure.dll
+C:\Users\haha\Desktop\Desktop Apps\CSharp\DotNetFun\SectionManagement\SectionManagement.Infrastructure\obj\Debug\net8.0\SectionManagement.Infrastructure.pdb
+C:\Users\haha\Desktop\Desktop Apps\CSharp\DotNetFun\SectionManagement\SectionManagement.Infrastructure\obj\Debug\net8.0\ref\SectionManagement.Infrastructure.dll
+C:\Users\haha\Desktop\Desktop Apps\CSharp\DotNetFun\SectionManagement\SectionManagement.Infrastructure\obj\Debug\net8.0\SectionManagement.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\haha\Desktop\Desktop Apps\CSharp\DotNetFun\SectionManagement\SectionManagement.Infrastructure\bin\Debug\net8.0\SectionManagement.Infrastructure.runtimeconfig.json
+C:\Users\haha\Desktop\Desktop Apps\CSharp\DotNetFun\SectionManagement\SectionManagement.Infrastructure\bin\Debug\net8.0\SectionManagement.Application.dll
+C:\Users\haha\Desktop\Desktop Apps\CSharp\DotNetFun\SectionManagement\SectionManagement.Infrastructure\bin\Debug\net8.0\SectionManagement.Core.dll
+C:\Users\haha\Desktop\Desktop Apps\CSharp\DotNetFun\SectionManagement\SectionManagement.Infrastructure\bin\Debug\net8.0\SectionManagement.Application.pdb
+C:\Users\haha\Desktop\Desktop Apps\CSharp\DotNetFun\SectionManagement\SectionManagement.Infrastructure\bin\Debug\net8.0\SectionManagement.Core.pdb
+C:\Users\haha\Desktop\Desktop Apps\CSharp\DotNetFun\SectionManagement\SectionManagement.Infrastructure\obj\Debug\net8.0\SectionManagement.Infrastructure.csproj.CopyComplete
+C:\Users\haha\Desktop\Desktop Apps\CSharp\DotNetFun\SectionManagement\SectionManagement.Infrastructure\obj\Debug\net8.0\SectionManagement.Infrastructure.genruntimeconfig.cache
+C:\Users\haha\Desktop\test02\SectionManagement\SectionManagement.Infrastructure\bin\Debug\net8.0\SectionManagement.Infrastructure.deps.json
+C:\Users\haha\Desktop\test02\SectionManagement\SectionManagement.Infrastructure\bin\Debug\net8.0\SectionManagement.Infrastructure.runtimeconfig.json
+C:\Users\haha\Desktop\test02\SectionManagement\SectionManagement.Infrastructure\bin\Debug\net8.0\SectionManagement.Infrastructure.dll
+C:\Users\haha\Desktop\test02\SectionManagement\SectionManagement.Infrastructure\bin\Debug\net8.0\SectionManagement.Infrastructure.pdb
+C:\Users\haha\Desktop\test02\SectionManagement\SectionManagement.Infrastructure\bin\Debug\net8.0\SectionManagement.Application.dll
+C:\Users\haha\Desktop\test02\SectionManagement\SectionManagement.Infrastructure\bin\Debug\net8.0\SectionManagement.Core.dll
+C:\Users\haha\Desktop\test02\SectionManagement\SectionManagement.Infrastructure\bin\Debug\net8.0\SectionManagement.Application.pdb
+C:\Users\haha\Desktop\test02\SectionManagement\SectionManagement.Infrastructure\bin\Debug\net8.0\SectionManagement.Core.pdb
+C:\Users\haha\Desktop\test02\SectionManagement\SectionManagement.Infrastructure\obj\Debug\net8.0\SectionManagement.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\haha\Desktop\test02\SectionManagement\SectionManagement.Infrastructure\obj\Debug\net8.0\SectionManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haha\Desktop\test02\SectionManagement\SectionManagement.Infrastructure\obj\Debug\net8.0\SectionManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\haha\Desktop\test02\SectionManagement\SectionManagement.Infrastructure\obj\Debug\net8.0\SectionManagement.Infrastructure.AssemblyInfo.cs
+C:\Users\haha\Desktop\test02\SectionManagement\SectionManagement.Infrastructure\obj\Debug\net8.0\SectionManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\haha\Desktop\test02\SectionManagement\SectionManagement.Infrastructure\obj\Debug\net8.0\SectionManagement.Infrastructure.csproj.CopyComplete
+C:\Users\haha\Desktop\test02\SectionManagement\SectionManagement.Infrastructure\obj\Debug\net8.0\SectionManagement.Infrastructure.dll
+C:\Users\haha\Desktop\test02\SectionManagement\SectionManagement.Infrastructure\obj\Debug\net8.0\refint\SectionManagement.Infrastructure.dll
+C:\Users\haha\Desktop\test02\SectionManagement\SectionManagement.Infrastructure\obj\Debug\net8.0\SectionManagement.Infrastructure.pdb
+C:\Users\haha\Desktop\test02\SectionManagement\SectionManagement.Infrastructure\obj\Debug\net8.0\SectionManagement.Infrastructure.genruntimeconfig.cache
+C:\Users\haha\Desktop\test02\SectionManagement\SectionManagement.Infrastructure\obj\Debug\net8.0\ref\SectionManagement.Infrastructure.dll

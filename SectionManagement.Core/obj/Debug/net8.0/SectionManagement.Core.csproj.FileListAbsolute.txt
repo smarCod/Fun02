@@ -1,0 +1,22 @@
+C:\Users\haha\Desktop\Desktop Apps\CSharp\DotNetFun\SectionManagement\SectionManagement.Core\obj\Debug\net8.0\SectionManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haha\Desktop\Desktop Apps\CSharp\DotNetFun\SectionManagement\SectionManagement.Core\obj\Debug\net8.0\SectionManagement.Core.AssemblyInfoInputs.cache
+C:\Users\haha\Desktop\Desktop Apps\CSharp\DotNetFun\SectionManagement\SectionManagement.Core\obj\Debug\net8.0\SectionManagement.Core.AssemblyInfo.cs
+C:\Users\haha\Desktop\Desktop Apps\CSharp\DotNetFun\SectionManagement\SectionManagement.Core\obj\Debug\net8.0\SectionManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\haha\Desktop\Desktop Apps\CSharp\DotNetFun\SectionManagement\SectionManagement.Core\bin\Debug\net8.0\SectionManagement.Core.deps.json
+C:\Users\haha\Desktop\Desktop Apps\CSharp\DotNetFun\SectionManagement\SectionManagement.Core\bin\Debug\net8.0\SectionManagement.Core.dll
+C:\Users\haha\Desktop\Desktop Apps\CSharp\DotNetFun\SectionManagement\SectionManagement.Core\bin\Debug\net8.0\SectionManagement.Core.pdb
+C:\Users\haha\Desktop\Desktop Apps\CSharp\DotNetFun\SectionManagement\SectionManagement.Core\obj\Debug\net8.0\SectionManagement.Core.dll
+C:\Users\haha\Desktop\Desktop Apps\CSharp\DotNetFun\SectionManagement\SectionManagement.Core\obj\Debug\net8.0\refint\SectionManagement.Core.dll
+C:\Users\haha\Desktop\Desktop Apps\CSharp\DotNetFun\SectionManagement\SectionManagement.Core\obj\Debug\net8.0\SectionManagement.Core.pdb
+C:\Users\haha\Desktop\Desktop Apps\CSharp\DotNetFun\SectionManagement\SectionManagement.Core\obj\Debug\net8.0\ref\SectionManagement.Core.dll
+C:\Users\haha\Desktop\test02\SectionManagement\SectionManagement.Core\bin\Debug\net8.0\SectionManagement.Core.deps.json
+C:\Users\haha\Desktop\test02\SectionManagement\SectionManagement.Core\bin\Debug\net8.0\SectionManagement.Core.dll
+C:\Users\haha\Desktop\test02\SectionManagement\SectionManagement.Core\bin\Debug\net8.0\SectionManagement.Core.pdb
+C:\Users\haha\Desktop\test02\SectionManagement\SectionManagement.Core\obj\Debug\net8.0\SectionManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haha\Desktop\test02\SectionManagement\SectionManagement.Core\obj\Debug\net8.0\SectionManagement.Core.AssemblyInfoInputs.cache
+C:\Users\haha\Desktop\test02\SectionManagement\SectionManagement.Core\obj\Debug\net8.0\SectionManagement.Core.AssemblyInfo.cs
+C:\Users\haha\Desktop\test02\SectionManagement\SectionManagement.Core\obj\Debug\net8.0\SectionManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\haha\Desktop\test02\SectionManagement\SectionManagement.Core\obj\Debug\net8.0\SectionManagement.Core.dll
+C:\Users\haha\Desktop\test02\SectionManagement\SectionManagement.Core\obj\Debug\net8.0\refint\SectionManagement.Core.dll
+C:\Users\haha\Desktop\test02\SectionManagement\SectionManagement.Core\obj\Debug\net8.0\SectionManagement.Core.pdb
+C:\Users\haha\Desktop\test02\SectionManagement\SectionManagement.Core\obj\Debug\net8.0\ref\SectionManagement.Core.dll

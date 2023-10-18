@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BJ83n2rL51R+7PlRNBUcQvqFMBbj8OPqRrfAPlq86c2gxItheGdF1dkjVKRlnn9E3sya5lwDYpusd54XHkeR4Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\haha\\Desktop\\test02\\SectionManagement\\SectionManagement.Application\\SectionManagement.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\haha\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
